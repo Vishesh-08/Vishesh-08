@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 - 🔭 I’m currently working on **Fare Prognosis**
 
-- 💬 Ask me about **Python, data-science and memes**
+- 💬 Ask me about **Python,machine-learning,data-science and memes**
 
 - 📫 How to reach me **108.vishesh@gmail.com**
 
