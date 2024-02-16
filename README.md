@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishesh</h1>
-<h3 align="center">Still figuring things out.....but coding is fun</h3>
+<h3 align="center">Still figuring things out but..... coding is fun</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 - 🔭 I’m currently working on **Fare Prognosis**
 
